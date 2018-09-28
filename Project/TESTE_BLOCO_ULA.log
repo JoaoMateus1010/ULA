@@ -1,0 +1,465 @@
+Circuit: * D:\Faculdade\Circuitos\PRATICA09\TESTE_BLOCO_ULA.asc
+
+WARNING: Less than two connections to node X1:N078.  This node is used by R:X1:X7:U5:OUT:OUT.
+WARNING: Less than two connections to node X1:N086.  This node is used by R:X1:X7:U6:OUT:OUT.
+WARNING: Less than two connections to node X1:N090.  This node is used by R:X1:X7:U7:OUT:OUT.
+WARNING: Less than two connections to node X1:N094.  This node is used by R:X1:X7:U8:OUT:OUT.
+WARNING: Less than two connections to node LOGIC_S0.  This node is used by R:X1:X9:U15:OUT:OUT.
+WARNING: Less than two connections to node LOGIC_S1.  This node is used by R:X1:X9:U22:OUT:OUT.
+WARNING: Less than two connections to node LOGIC_S2.  This node is used by R:X1:X9:U29:OUT:OUT.
+WARNING: Less than two connections to node LOGIC_S3.  This node is used by R:X1:X9:U36:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_01.  This node is used by R:X1:X10:U5:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_02.  This node is used by R:X1:X10:U6:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_03.  This node is used by R:X1:X10:U7:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_04.  This node is used by R:X1:X10:U8:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_05.  This node is used by R:X1:X12:U1:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_06.  This node is used by R:X1:X12:U5:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_07.  This node is used by R:X1:X12:U6:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_08.  This node is used by R:X1:X12:U7:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_09.  This node is used by R:X1:X12:U8:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_10.  This node is used by R:X1:X14:U5:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_11.  This node is used by R:X1:X14:U6:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_12.  This node is used by R:X1:X14:U7:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_13.  This node is used by R:X1:X14:U8:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_14.  This node is used by R:X1:X16:U5:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_15.  This node is used by R:X1:X16:U6:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_16.  This node is used by R:X1:X16:U7:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_17.  This node is used by R:X1:X16:U8:OUT:OUT.
+WARNING: Less than two connections to node DESLOC_S3.  This node is used by R:X1:X18:U3:OUT:OUT.
+WARNING: Less than two connections to node OVERFOW_DESLOC.  This node is used by R:X1:X18:U4:OUT:OUT.
+WARNING: Less than two connections to node DESLOC_S2.  This node is used by R:X1:X18:U7:OUT:OUT.
+WARNING: Less than two connections to node DESLOC_S1.  This node is used by R:X1:X18:U10:OUT:OUT.
+WARNING: Less than two connections to node DESLOC_S0.  This node is used by R:X1:X18:U13:OUT:OUT.
+WARNING: Less than two connections to node X1:X22:NC_01.  This node is used by R:X1:X22:X2:X4:U4:OUT:OUT.
+WARNING: Less than two connections to node X1:NC_18.  This node is used by R:X1:X22:X3:X4:U4:OUT:OUT.
+WARNING: Less than two connections to node S4.  This node is used by R:X1:X24:X9:U1:OUT:OUT.
+WARNING: Less than two connections to node S5.  This node is used by R:X1:X24:X11:U6:OUT:OUT.
+WARNING: Less than two connections to node S6.  This node is used by R:X1:X24:X12:U6:OUT:OUT.
+WARNING: Less than two connections to node OVERFLOW_ARI.  This node is used by R:X1:X25:U2:OUT:OUT.
+WARNING: Less than two connections to node S0.  This node is used by R:X1:X25:U3:OUT:OUT.
+WARNING: Less than two connections to node S1.  This node is used by R:X1:X25:U5:OUT:OUT.
+WARNING: Less than two connections to node S2.  This node is used by R:X1:X25:U7:OUT:OUT.
+WARNING: Less than two connections to node S3.  This node is used by R:X1:X25:U9:OUT:OUT.
+WARNING: Less than two connections to node X1:X29:X1:NC_01.  This node is used by R:X1:X29:X1:X2:X4:U4:OUT:OUT.
+WARNING: Less than two connections to node X1:X29:NC_01.  This node is used by R:X1:X29:X1:X3:X1:U1:OUT:OUT.
+WARNING: Less than two connections to node X1:X29:NC_02.  This node is used by R:X1:X29:X1:X3:X2:U6:OUT:OUT.
+WARNING: Less than two connections to node X1:X29:NC_03.  This node is used by R:X1:X29:X1:X3:X3:U6:OUT:OUT.
+WARNING: Less than two connections to node X1:X29:NC_04.  This node is used by R:X1:X29:X1:X3:X4:U6:OUT:OUT.
+WARNING: Less than two connections to node X1:X30:X1:NC_01.  This node is used by R:X1:X30:X1:X2:X4:U4:OUT:OUT.
+WARNING: Less than two connections to node X1:X30:NC_01.  This node is used by R:X1:X30:X1:X3:X1:U1:OUT:OUT.
+WARNING: Less than two connections to node X1:X30:NC_02.  This node is used by R:X1:X30:X1:X3:X2:U6:OUT:OUT.
+WARNING: Less than two connections to node X1:X30:NC_03.  This node is used by R:X1:X30:X1:X3:X3:U6:OUT:OUT.
+WARNING: Less than two connections to node X1:X30:NC_04.  This node is used by R:X1:X30:X1:X3:X4:U6:OUT:OUT.
+WARNING: Less than two connections to node X_MENOR_Y.  This node is used by R:X1:U19:OUT:OUT.
+WARNING: Less than two connections to node X_MAIOR_Y.  This node is used by R:X1:U20:OUT:OUT.
+WARNING: Less than two connections to node X_IGUAL_Y.  This node is used by R:X1:U21:OUT:OUT.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+Gmin = 2.18725e-010
+Gmin = 2.34854e-011
+Gmin = 2.52173e-012
+Gmin = 2.70769e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Ignoring empty pin current: Ix(u1:a)
+Ignoring empty pin current: Ix(u1:b)
+Ignoring empty pin current: Ix(u1:y)
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u1:vgnd)
+Ignoring empty pin current: Ix(u2:a)
+Ignoring empty pin current: Ix(u2:b)
+Ignoring empty pin current: Ix(u2:y)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u2:vgnd)
+Ignoring empty pin current: Ix(u3:a)
+Ignoring empty pin current: Ix(u3:b)
+Ignoring empty pin current: Ix(u3:y)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u3:vgnd)
+Ignoring empty pin current: Ix(u4:a)
+Ignoring empty pin current: Ix(u4:b)
+Ignoring empty pin current: Ix(u4:y)
+Ignoring empty pin current: Ix(u4:vcc)
+Ignoring empty pin current: Ix(u4:vgnd)
+Ignoring empty pin current: Ix(u5:a)
+Ignoring empty pin current: Ix(u5:b)
+Ignoring empty pin current: Ix(u5:y)
+Ignoring empty pin current: Ix(u5:vcc)
+Ignoring empty pin current: Ix(u5:vgnd)
+Ignoring empty pin current: Ix(u6:a)
+Ignoring empty pin current: Ix(u6:b)
+Ignoring empty pin current: Ix(u6:y)
+Ignoring empty pin current: Ix(u6:vcc)
+Ignoring empty pin current: Ix(u6:vgnd)
+Ignoring empty pin current: Ix(x1:sc0)
+Ignoring empty pin current: Ix(x1:sc1)
+Ignoring empty pin current: Ix(x1:sc2)
+Ignoring empty pin current: Ix(x1:sc3)
+Ignoring empty pin current: Ix(x1:x0)
+Ignoring empty pin current: Ix(x1:x1)
+Ignoring empty pin current: Ix(x1:x2)
+Ignoring empty pin current: Ix(x1:x3)
+Ignoring empty pin current: Ix(x1:y0)
+Ignoring empty pin current: Ix(x1:y1)
+Ignoring empty pin current: Ix(x1:y2)
+Ignoring empty pin current: Ix(x1:y3)
+Ignoring empty pin current: Ix(x1:deslocamento_overlfow)
+Ignoring empty pin current: Ix(x1:deslocamento_s0)
+Ignoring empty pin current: Ix(x1:deslocamento_s1)
+Ignoring empty pin current: Ix(x1:deslocamento_s2)
+Ignoring empty pin current: Ix(x1:deslocamento_s3)
+Ignoring empty pin current: Ix(x1:logic_s0)
+Ignoring empty pin current: Ix(x1:logic_s1)
+Ignoring empty pin current: Ix(x1:logic_s2)
+Ignoring empty pin current: Ix(x1:logic_s3)
+Ignoring empty pin current: Ix(x1:s4)
+Ignoring empty pin current: Ix(x1:s5)
+Ignoring empty pin current: Ix(x1:s6)
+Ignoring empty pin current: Ix(x1:x_igual_y)
+Ignoring empty pin current: Ix(x1:x_maior_y)
+Ignoring empty pin current: Ix(x1:x_menor_y)
+Ignoring empty pin current: Ix(u7:a)
+Ignoring empty pin current: Ix(u7:b)
+Ignoring empty pin current: Ix(u7:y)
+Ignoring empty pin current: Ix(u7:vcc)
+Ignoring empty pin current: Ix(u7:vgnd)
+Ignoring empty pin current: Ix(u8:a)
+Ignoring empty pin current: Ix(u8:b)
+Ignoring empty pin current: Ix(u8:y)
+Ignoring empty pin current: Ix(u8:vcc)
+Ignoring empty pin current: Ix(u8:vgnd)
+Ignoring empty pin current: Ix(u9:a)
+Ignoring empty pin current: Ix(u9:y)
+Ignoring empty pin current: Ix(u9:vcc)
+Ignoring empty pin current: Ix(u9:vgnd)
+Ignoring empty pin current: Ix(u10:a)
+Ignoring empty pin current: Ix(u10:b)
+Ignoring empty pin current: Ix(u10:y)
+Ignoring empty pin current: Ix(u10:vcc)
+Ignoring empty pin current: Ix(u10:vgnd)
+Ignoring empty pin current: Ix(u11:a)
+Ignoring empty pin current: Ix(u11:b)
+Ignoring empty pin current: Ix(u11:y)
+Ignoring empty pin current: Ix(u11:vcc)
+Ignoring empty pin current: Ix(u11:vgnd)
+Ignoring empty pin current: Ix(u12:a)
+Ignoring empty pin current: Ix(u12:b)
+Ignoring empty pin current: Ix(u12:y)
+Ignoring empty pin current: Ix(u12:vcc)
+Ignoring empty pin current: Ix(u12:vgnd)
+Ignoring empty pin current: Ix(u13:a)
+Ignoring empty pin current: Ix(u13:b)
+Ignoring empty pin current: Ix(u13:y)
+Ignoring empty pin current: Ix(u13:vcc)
+Ignoring empty pin current: Ix(u13:vgnd)
+Ignoring empty pin current: Ix(u14:a)
+Ignoring empty pin current: Ix(u14:b)
+Ignoring empty pin current: Ix(u14:y)
+Ignoring empty pin current: Ix(u14:vcc)
+Ignoring empty pin current: Ix(u14:vgnd)
+Ignoring empty pin current: Ix(u15:a)
+Ignoring empty pin current: Ix(u15:b)
+Ignoring empty pin current: Ix(u15:y)
+Ignoring empty pin current: Ix(u15:vcc)
+Ignoring empty pin current: Ix(u15:vgnd)
+Ignoring empty pin current: Ix(u17:a)
+Ignoring empty pin current: Ix(u17:b)
+Ignoring empty pin current: Ix(u17:y)
+Ignoring empty pin current: Ix(u17:vcc)
+Ignoring empty pin current: Ix(u17:vgnd)
+Ignoring empty pin current: Ix(u18:a)
+Ignoring empty pin current: Ix(u18:y)
+Ignoring empty pin current: Ix(u18:vcc)
+Ignoring empty pin current: Ix(u18:vgnd)
+Ignoring empty pin current: Ix(u20:a)
+Ignoring empty pin current: Ix(u20:b)
+Ignoring empty pin current: Ix(u20:y)
+Ignoring empty pin current: Ix(u20:vcc)
+Ignoring empty pin current: Ix(u20:vgnd)
+Ignoring empty pin current: Ix(u21:a)
+Ignoring empty pin current: Ix(u21:b)
+Ignoring empty pin current: Ix(u21:y)
+Ignoring empty pin current: Ix(u21:vcc)
+Ignoring empty pin current: Ix(u21:vgnd)
+Ignoring empty pin current: Ix(u22:a)
+Ignoring empty pin current: Ix(u22:b)
+Ignoring empty pin current: Ix(u22:y)
+Ignoring empty pin current: Ix(u22:vcc)
+Ignoring empty pin current: Ix(u22:vgnd)
+Ignoring empty pin current: Ix(u24:a)
+Ignoring empty pin current: Ix(u24:b)
+Ignoring empty pin current: Ix(u24:y)
+Ignoring empty pin current: Ix(u24:vcc)
+Ignoring empty pin current: Ix(u24:vgnd)
+Ignoring empty pin current: Ix(u25:a)
+Ignoring empty pin current: Ix(u25:y)
+Ignoring empty pin current: Ix(u25:vcc)
+Ignoring empty pin current: Ix(u25:vgnd)
+Ignoring empty pin current: Ix(u27:a)
+Ignoring empty pin current: Ix(u27:b)
+Ignoring empty pin current: Ix(u27:y)
+Ignoring empty pin current: Ix(u27:vcc)
+Ignoring empty pin current: Ix(u27:vgnd)
+Ignoring empty pin current: Ix(u28:a)
+Ignoring empty pin current: Ix(u28:b)
+Ignoring empty pin current: Ix(u28:y)
+Ignoring empty pin current: Ix(u28:vcc)
+Ignoring empty pin current: Ix(u28:vgnd)
+Ignoring empty pin current: Ix(u29:a)
+Ignoring empty pin current: Ix(u29:b)
+Ignoring empty pin current: Ix(u29:y)
+Ignoring empty pin current: Ix(u29:vcc)
+Ignoring empty pin current: Ix(u29:vgnd)
+Ignoring empty pin current: Ix(u31:a)
+Ignoring empty pin current: Ix(u31:b)
+Ignoring empty pin current: Ix(u31:y)
+Ignoring empty pin current: Ix(u31:vcc)
+Ignoring empty pin current: Ix(u31:vgnd)
+Ignoring empty pin current: Ix(u32:a)
+Ignoring empty pin current: Ix(u32:y)
+Ignoring empty pin current: Ix(u32:vcc)
+Ignoring empty pin current: Ix(u32:vgnd)
+Ignoring empty pin current: Ix(u34:a)
+Ignoring empty pin current: Ix(u34:b)
+Ignoring empty pin current: Ix(u34:y)
+Ignoring empty pin current: Ix(u34:vcc)
+Ignoring empty pin current: Ix(u34:vgnd)
+Ignoring empty pin current: Ix(u35:a)
+Ignoring empty pin current: Ix(u35:b)
+Ignoring empty pin current: Ix(u35:y)
+Ignoring empty pin current: Ix(u35:vcc)
+Ignoring empty pin current: Ix(u35:vgnd)
+Ignoring empty pin current: Ix(u36:a)
+Ignoring empty pin current: Ix(u36:b)
+Ignoring empty pin current: Ix(u36:y)
+Ignoring empty pin current: Ix(u36:vcc)
+Ignoring empty pin current: Ix(u36:vgnd)
+Ignoring empty pin current: Ix(u16:a)
+Ignoring empty pin current: Ix(u16:b)
+Ignoring empty pin current: Ix(u16:c)
+Ignoring empty pin current: Ix(u16:d)
+Ignoring empty pin current: Ix(u16:y)
+Ignoring empty pin current: Ix(u16:vcc)
+Ignoring empty pin current: Ix(u16:vgnd)
+Ignoring empty pin current: Ix(u19:a)
+Ignoring empty pin current: Ix(u19:b)
+Ignoring empty pin current: Ix(u19:y)
+Ignoring empty pin current: Ix(u19:vcc)
+Ignoring empty pin current: Ix(u19:vgnd)
+Ignoring empty pin current: Ix(u1:a)
+Ignoring empty pin current: Ix(u1:b)
+Ignoring empty pin current: Ix(u1:y)
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u1:vgnd)
+Ignoring empty pin current: Ix(u2:a)
+Ignoring empty pin current: Ix(u2:b)
+Ignoring empty pin current: Ix(u2:y)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u2:vgnd)
+Ignoring empty pin current: Ix(u3:a)
+Ignoring empty pin current: Ix(u3:b)
+Ignoring empty pin current: Ix(u3:y)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u3:vgnd)
+Ignoring empty pin current: Ix(u4:a)
+Ignoring empty pin current: Ix(u4:b)
+Ignoring empty pin current: Ix(u4:y)
+Ignoring empty pin current: Ix(u4:vcc)
+Ignoring empty pin current: Ix(u4:vgnd)
+Ignoring empty pin current: Ix(u5:a)
+Ignoring empty pin current: Ix(u5:b)
+Ignoring empty pin current: Ix(u5:y)
+Ignoring empty pin current: Ix(u5:vcc)
+Ignoring empty pin current: Ix(u5:vgnd)
+Ignoring empty pin current: Ix(u6:a)
+Ignoring empty pin current: Ix(u6:b)
+Ignoring empty pin current: Ix(u6:y)
+Ignoring empty pin current: Ix(u6:vcc)
+Ignoring empty pin current: Ix(u6:vgnd)
+Ignoring empty pin current: Ix(x1:sc0)
+Ignoring empty pin current: Ix(x1:sc1)
+Ignoring empty pin current: Ix(x1:sc2)
+Ignoring empty pin current: Ix(x1:sc3)
+Ignoring empty pin current: Ix(x1:x0)
+Ignoring empty pin current: Ix(x1:x1)
+Ignoring empty pin current: Ix(x1:x2)
+Ignoring empty pin current: Ix(x1:x3)
+Ignoring empty pin current: Ix(x1:y0)
+Ignoring empty pin current: Ix(x1:y1)
+Ignoring empty pin current: Ix(x1:y2)
+Ignoring empty pin current: Ix(x1:y3)
+Ignoring empty pin current: Ix(x1:deslocamento_overlfow)
+Ignoring empty pin current: Ix(x1:deslocamento_s0)
+Ignoring empty pin current: Ix(x1:deslocamento_s1)
+Ignoring empty pin current: Ix(x1:deslocamento_s2)
+Ignoring empty pin current: Ix(x1:deslocamento_s3)
+Ignoring empty pin current: Ix(x1:logic_s0)
+Ignoring empty pin current: Ix(x1:logic_s1)
+Ignoring empty pin current: Ix(x1:logic_s2)
+Ignoring empty pin current: Ix(x1:logic_s3)
+Ignoring empty pin current: Ix(x1:s4)
+Ignoring empty pin current: Ix(x1:s5)
+Ignoring empty pin current: Ix(x1:s6)
+Ignoring empty pin current: Ix(x1:x_igual_y)
+Ignoring empty pin current: Ix(x1:x_maior_y)
+Ignoring empty pin current: Ix(x1:x_menor_y)
+Ignoring empty pin current: Ix(u7:a)
+Ignoring empty pin current: Ix(u7:b)
+Ignoring empty pin current: Ix(u7:y)
+Ignoring empty pin current: Ix(u7:vcc)
+Ignoring empty pin current: Ix(u7:vgnd)
+Ignoring empty pin current: Ix(u8:a)
+Ignoring empty pin current: Ix(u8:b)
+Ignoring empty pin current: Ix(u8:y)
+Ignoring empty pin current: Ix(u8:vcc)
+Ignoring empty pin current: Ix(u8:vgnd)
+Ignoring empty pin current: Ix(u9:a)
+Ignoring empty pin current: Ix(u9:y)
+Ignoring empty pin current: Ix(u9:vcc)
+Ignoring empty pin current: Ix(u9:vgnd)
+Ignoring empty pin current: Ix(u10:a)
+Ignoring empty pin current: Ix(u10:b)
+Ignoring empty pin current: Ix(u10:y)
+Ignoring empty pin current: Ix(u10:vcc)
+Ignoring empty pin current: Ix(u10:vgnd)
+Ignoring empty pin current: Ix(u11:a)
+Ignoring empty pin current: Ix(u11:b)
+Ignoring empty pin current: Ix(u11:y)
+Ignoring empty pin current: Ix(u11:vcc)
+Ignoring empty pin current: Ix(u11:vgnd)
+Ignoring empty pin current: Ix(u12:a)
+Ignoring empty pin current: Ix(u12:b)
+Ignoring empty pin current: Ix(u12:y)
+Ignoring empty pin current: Ix(u12:vcc)
+Ignoring empty pin current: Ix(u12:vgnd)
+Ignoring empty pin current: Ix(u13:a)
+Ignoring empty pin current: Ix(u13:b)
+Ignoring empty pin current: Ix(u13:y)
+Ignoring empty pin current: Ix(u13:vcc)
+Ignoring empty pin current: Ix(u13:vgnd)
+Ignoring empty pin current: Ix(u14:a)
+Ignoring empty pin current: Ix(u14:b)
+Ignoring empty pin current: Ix(u14:y)
+Ignoring empty pin current: Ix(u14:vcc)
+Ignoring empty pin current: Ix(u14:vgnd)
+Ignoring empty pin current: Ix(u15:a)
+Ignoring empty pin current: Ix(u15:b)
+Ignoring empty pin current: Ix(u15:y)
+Ignoring empty pin current: Ix(u15:vcc)
+Ignoring empty pin current: Ix(u15:vgnd)
+Ignoring empty pin current: Ix(u17:a)
+Ignoring empty pin current: Ix(u17:b)
+Ignoring empty pin current: Ix(u17:y)
+Ignoring empty pin current: Ix(u17:vcc)
+Ignoring empty pin current: Ix(u17:vgnd)
+Ignoring empty pin current: Ix(u18:a)
+Ignoring empty pin current: Ix(u18:y)
+Ignoring empty pin current: Ix(u18:vcc)
+Ignoring empty pin current: Ix(u18:vgnd)
+Ignoring empty pin current: Ix(u20:a)
+Ignoring empty pin current: Ix(u20:b)
+Ignoring empty pin current: Ix(u20:y)
+Ignoring empty pin current: Ix(u20:vcc)
+Ignoring empty pin current: Ix(u20:vgnd)
+Ignoring empty pin current: Ix(u21:a)
+Ignoring empty pin current: Ix(u21:b)
+Ignoring empty pin current: Ix(u21:y)
+Ignoring empty pin current: Ix(u21:vcc)
+Ignoring empty pin current: Ix(u21:vgnd)
+Ignoring empty pin current: Ix(u22:a)
+Ignoring empty pin current: Ix(u22:b)
+Ignoring empty pin current: Ix(u22:y)
+Ignoring empty pin current: Ix(u22:vcc)
+Ignoring empty pin current: Ix(u22:vgnd)
+Ignoring empty pin current: Ix(u24:a)
+Ignoring empty pin current: Ix(u24:b)
+Ignoring empty pin current: Ix(u24:y)
+Ignoring empty pin current: Ix(u24:vcc)
+Ignoring empty pin current: Ix(u24:vgnd)
+Ignoring empty pin current: Ix(u25:a)
+Ignoring empty pin current: Ix(u25:y)
+Ignoring empty pin current: Ix(u25:vcc)
+Ignoring empty pin current: Ix(u25:vgnd)
+Ignoring empty pin current: Ix(u27:a)
+Ignoring empty pin current: Ix(u27:b)
+Ignoring empty pin current: Ix(u27:y)
+Ignoring empty pin current: Ix(u27:vcc)
+Ignoring empty pin current: Ix(u27:vgnd)
+Ignoring empty pin current: Ix(u28:a)
+Ignoring empty pin current: Ix(u28:b)
+Ignoring empty pin current: Ix(u28:y)
+Ignoring empty pin current: Ix(u28:vcc)
+Ignoring empty pin current: Ix(u28:vgnd)
+Ignoring empty pin current: Ix(u29:a)
+Ignoring empty pin current: Ix(u29:b)
+Ignoring empty pin current: Ix(u29:y)
+Ignoring empty pin current: Ix(u29:vcc)
+Ignoring empty pin current: Ix(u29:vgnd)
+Ignoring empty pin current: Ix(u31:a)
+Ignoring empty pin current: Ix(u31:b)
+Ignoring empty pin current: Ix(u31:y)
+Ignoring empty pin current: Ix(u31:vcc)
+Ignoring empty pin current: Ix(u31:vgnd)
+Ignoring empty pin current: Ix(u32:a)
+Ignoring empty pin current: Ix(u32:y)
+Ignoring empty pin current: Ix(u32:vcc)
+Ignoring empty pin current: Ix(u32:vgnd)
+Ignoring empty pin current: Ix(u34:a)
+Ignoring empty pin current: Ix(u34:b)
+Ignoring empty pin current: Ix(u34:y)
+Ignoring empty pin current: Ix(u34:vcc)
+Ignoring empty pin current: Ix(u34:vgnd)
+Ignoring empty pin current: Ix(u35:a)
+Ignoring empty pin current: Ix(u35:b)
+Ignoring empty pin current: Ix(u35:y)
+Ignoring empty pin current: Ix(u35:vcc)
+Ignoring empty pin current: Ix(u35:vgnd)
+Ignoring empty pin current: Ix(u36:a)
+Ignoring empty pin current: Ix(u36:b)
+Ignoring empty pin current: Ix(u36:y)
+Ignoring empty pin current: Ix(u36:vcc)
+Ignoring empty pin current: Ix(u36:vgnd)
+Ignoring empty pin current: Ix(u16:a)
+Ignoring empty pin current: Ix(u16:b)
+Ignoring empty pin current: Ix(u16:c)
+Ignoring empty pin current: Ix(u16:d)
+Ignoring empty pin current: Ix(u16:y)
+Ignoring empty pin current: Ix(u16:vcc)
+Ignoring empty pin current: Ix(u16:vgnd)
+Ignoring empty pin current: Ix(u19:a)
+Ignoring empty pin current: Ix(u19:b)
+Ignoring empty pin current: Ix(u19:y)
+Ignoring empty pin current: Ix(u19:vcc)
+Ignoring empty pin current: Ix(u19:vgnd)
+
+Date: Thu Jul 14 11:52:51 2016
+Total elapsed time: 8.246 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2914
+traniter = 2511
+tranpoints = 1213
+accept = 1173
+rejected = 40
+matrix size = 5868
+fillins = 223
+solver = Normal
+Thread vector: 1122.9/735.7[4] 475.1/387.5[4] 303.1/109.2[4] 19.8/12.3[4]  2592/500
+Matrix Compiler1: 161.04 KB object code size  131.1/74.0/[54.3]
+Matrix Compiler2: off  [48.3]/79.7/58.8
+
+

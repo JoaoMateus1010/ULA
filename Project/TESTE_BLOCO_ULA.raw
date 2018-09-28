@@ -1,0 +1,766 @@
+Title: * D:\Faculdade\Circuitos\PRATICA09\TESTE_BLOCO_ULA.asc
+Date: Thu Jul 14 11:52:47 2016
+Plotname: Transient Analysis
+Flags: real forward
+No. Variables: 50
+No. Points:            6
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV
+Backannotation: u1 a b y vcc vgnd
+Backannotation: u2 a b y vcc vgnd
+Backannotation: u3 a b y vcc vgnd
+Backannotation: u4 a b y vcc vgnd
+Backannotation: u5 a b y vcc vgnd
+Backannotation: u6 a b y vcc vgnd
+Backannotation: u1:in1 in out vcc vgnd
+Backannotation: u1:in2 in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in1 in out vcc vgnd
+Backannotation: u2:in2 in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u3:in1 in out vcc vgnd
+Backannotation: u3:in2 in out vcc vgnd
+Backannotation: u3:out in out vcc vgnd
+Backannotation: u4:in1 in out vcc vgnd
+Backannotation: u4:in2 in out vcc vgnd
+Backannotation: u4:out in out vcc vgnd
+Backannotation: u5:in1 in out vcc vgnd
+Backannotation: u5:in2 in out vcc vgnd
+Backannotation: u5:out in out vcc vgnd
+Backannotation: u6:in1 in out vcc vgnd
+Backannotation: u6:in2 in out vcc vgnd
+Backannotation: u6:out in out vcc vgnd
+Backannotation: u1 a b y vcc vgnd
+Backannotation: u2 a b y vcc vgnd
+Backannotation: u1:in1 in out vcc vgnd
+Backannotation: u1:in2 in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in1 in out vcc vgnd
+Backannotation: u2:in2 in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u1 a b c d y vcc vgnd
+Backannotation: u1:in1 in out vcc vgnd
+Backannotation: u1:in2 in out vcc vgnd
+Backannotation: u1:in3 in out vcc vgnd
+Backannotation: u1:in4 in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u1 a b y vcc vgnd
+Backannotation: u2 a b y vcc vgnd
+Backannotation: u3 a b y vcc vgnd
+Backannotation: u4 a b y vcc vgnd
+Backannotation: u5 a b y vcc vgnd
+Backannotation: u6 a b y vcc vgnd
+Backannotation: u7 a b y vcc vgnd
+Backannotation: u8 a b y vcc vgnd
+Backannotation: u9 a y vcc vgnd
+Backannotation: u1:in1 in out vcc vgnd
+Backannotation: u1:in2 in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in1 in out vcc vgnd
+Backannotation: u2:in2 in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u3:in1 in out vcc vgnd
+Backannotation: u3:in2 in out vcc vgnd
+Backannotation: u3:out in out vcc vgnd
+Backannotation: u4:in1 in out vcc vgnd
+Backannotation: u4:in2 in out vcc vgnd
+Backannotation: u4:out in out vcc vgnd
+Backannotation: u5:in1 in out vcc vgnd
+Backannotation: u5:in2 in out vcc vgnd
+Backannotation: u5:out in out vcc vgnd
+Backannotation: u6:in1 in out vcc vgnd
+Backannotation: u6:in2 in out vcc vgnd
+Backannotation: u6:out in out vcc vgnd
+Backannotation: u7:in1 in out vcc vgnd
+Backannotation: u7:in2 in out vcc vgnd
+Backannotation: u7:out in out vcc vgnd
+Backannotation: u8:in1 in out vcc vgnd
+Backannotation: u8:in2 in out vcc vgnd
+Backannotation: u8:out in out vcc vgnd
+Backannotation: u9:in in out vcc vgnd
+Backannotation: u9:out in out vcc vgnd
+Backannotation: u1 a y vcc vgnd
+Backannotation: u1:in in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u1 a b y vcc vgnd
+Backannotation: u2 a b y vcc vgnd
+Backannotation: u3 a b y vcc vgnd
+Backannotation: u4 a b y vcc vgnd
+Backannotation: u5 a b y vcc vgnd
+Backannotation: u6 a b y vcc vgnd
+Backannotation: u7 a b y vcc vgnd
+Backannotation: u8 a b y vcc vgnd
+Backannotation: u9 a b y vcc vgnd
+Backannotation: u10 a b y vcc vgnd
+Backannotation: u11 a b y vcc vgnd
+Backannotation: u12 a b y vcc vgnd
+Backannotation: u13 a b y vcc vgnd
+Backannotation: u1:in1 in out vcc vgnd
+Backannotation: u1:in2 in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in1 in out vcc vgnd
+Backannotation: u2:in2 in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u3:in1 in out vcc vgnd
+Backannotation: u3:in2 in out vcc vgnd
+Backannotation: u3:out in out vcc vgnd
+Backannotation: u4:in1 in out vcc vgnd
+Backannotation: u4:in2 in out vcc vgnd
+Backannotation: u4:out in out vcc vgnd
+Backannotation: u5:in1 in out vcc vgnd
+Backannotation: u5:in2 in out vcc vgnd
+Backannotation: u5:out in out vcc vgnd
+Backannotation: u6:in1 in out vcc vgnd
+Backannotation: u6:in2 in out vcc vgnd
+Backannotation: u6:out in out vcc vgnd
+Backannotation: u7:in1 in out vcc vgnd
+Backannotation: u7:in2 in out vcc vgnd
+Backannotation: u7:out in out vcc vgnd
+Backannotation: u8:in1 in out vcc vgnd
+Backannotation: u8:in2 in out vcc vgnd
+Backannotation: u8:out in out vcc vgnd
+Backannotation: u9:in1 in out vcc vgnd
+Backannotation: u9:in2 in out vcc vgnd
+Backannotation: u9:out in out vcc vgnd
+Backannotation: u10:in1 in out vcc vgnd
+Backannotation: u10:in2 in out vcc vgnd
+Backannotation: u10:out in out vcc vgnd
+Backannotation: u11:in1 in out vcc vgnd
+Backannotation: u11:in2 in out vcc vgnd
+Backannotation: u11:out in out vcc vgnd
+Backannotation: u12:in1 in out vcc vgnd
+Backannotation: u12:in2 in out vcc vgnd
+Backannotation: u12:out in out vcc vgnd
+Backannotation: u13:in1 in out vcc vgnd
+Backannotation: u13:in2 in out vcc vgnd
+Backannotation: u13:out in out vcc vgnd
+Backannotation: u1 a b y vcc vgnd
+Backannotation: u2 a b y vcc vgnd
+Backannotation: u3 a b y vcc vgnd
+Backannotation: u4 a b y vcc vgnd
+Backannotation: u1:in1 in out vcc vgnd
+Backannotation: u1:in2 in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in1 in out vcc vgnd
+Backannotation: u2:in2 in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u3:in1 in out vcc vgnd
+Backannotation: u3:in2 in out vcc vgnd
+Backannotation: u3:out in out vcc vgnd
+Backannotation: u4:in1 in out vcc vgnd
+Backannotation: u4:in2 in out vcc vgnd
+Backannotation: u4:out in out vcc vgnd
+Backannotation: u1 a b y vcc vgnd
+Backannotation: u2 a b y vcc vgnd
+Backannotation: u3 a b y vcc vgnd
+Backannotation: u4 a b y vcc vgnd
+Backannotation: u1:in1 in out vcc vgnd
+Backannotation: u1:in2 in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in1 in out vcc vgnd
+Backannotation: u2:in2 in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u3:in1 in out vcc vgnd
+Backannotation: u3:in2 in out vcc vgnd
+Backannotation: u3:out in out vcc vgnd
+Backannotation: u4:in1 in out vcc vgnd
+Backannotation: u4:in2 in out vcc vgnd
+Backannotation: u4:out in out vcc vgnd
+Backannotation: u1 a b y vcc vgnd
+Backannotation: u2 a b y vcc vgnd
+Backannotation: u3 a b y vcc vgnd
+Backannotation: u4 a y vcc vgnd
+Backannotation: u5 a y vcc vgnd
+Backannotation: u6 a y vcc vgnd
+Backannotation: u1:in1 in out vcc vgnd
+Backannotation: u1:in2 in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in1 in out vcc vgnd
+Backannotation: u2:in2 in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u3:in1 in out vcc vgnd
+Backannotation: u3:in2 in out vcc vgnd
+Backannotation: u3:out in out vcc vgnd
+Backannotation: u4:in in out vcc vgnd
+Backannotation: u4:out in out vcc vgnd
+Backannotation: u5:in in out vcc vgnd
+Backannotation: u5:out in out vcc vgnd
+Backannotation: u6:in in out vcc vgnd
+Backannotation: u6:out in out vcc vgnd
+Backannotation: u1 a b y vcc vgnd
+Backannotation: u2 a b y vcc vgnd
+Backannotation: u3 a b y vcc vgnd
+Backannotation: u4 a b y vcc vgnd
+Backannotation: u5 a y vcc vgnd
+Backannotation: u6 a y vcc vgnd
+Backannotation: u7 a y vcc vgnd
+Backannotation: u8 a y vcc vgnd
+Backannotation: u1:in1 in out vcc vgnd
+Backannotation: u1:in2 in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in1 in out vcc vgnd
+Backannotation: u2:in2 in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u3:in1 in out vcc vgnd
+Backannotation: u3:in2 in out vcc vgnd
+Backannotation: u3:out in out vcc vgnd
+Backannotation: u4:in1 in out vcc vgnd
+Backannotation: u4:in2 in out vcc vgnd
+Backannotation: u4:out in out vcc vgnd
+Backannotation: u5:in in out vcc vgnd
+Backannotation: u5:out in out vcc vgnd
+Backannotation: u6:in in out vcc vgnd
+Backannotation: u6:out in out vcc vgnd
+Backannotation: u7:in in out vcc vgnd
+Backannotation: u7:out in out vcc vgnd
+Backannotation: u8:in in out vcc vgnd
+Backannotation: u8:out in out vcc vgnd
+Backannotation: u1 a b y vcc vgnd
+Backannotation: u2 a b y vcc vgnd
+Backannotation: u3 a b y vcc vgnd
+Backannotation: u4 a y vcc vgnd
+Backannotation: u5 a b y vcc vgnd
+Backannotation: u6 a y vcc vgnd
+Backannotation: u7 a b c y vcc vgnd
+Backannotation: u8 a b c y vcc vgnd
+Backannotation: u10 a b y vcc vgnd
+Backannotation: u11 a y vcc vgnd
+Backannotation: u13 a b y vcc vgnd
+Backannotation: u14 a b y vcc vgnd
+Backannotation: u15 a b y vcc vgnd
+Backannotation: u17 a b y vcc vgnd
+Backannotation: u18 a y vcc vgnd
+Backannotation: u20 a b y vcc vgnd
+Backannotation: u21 a b y vcc vgnd
+Backannotation: u22 a b y vcc vgnd
+Backannotation: u24 a b y vcc vgnd
+Backannotation: u25 a y vcc vgnd
+Backannotation: u27 a b y vcc vgnd
+Backannotation: u28 a b y vcc vgnd
+Backannotation: u29 a b y vcc vgnd
+Backannotation: u31 a b y vcc vgnd
+Backannotation: u32 a y vcc vgnd
+Backannotation: u34 a b y vcc vgnd
+Backannotation: u35 a b y vcc vgnd
+Backannotation: u36 a b y vcc vgnd
+Backannotation: u1:in1 in out vcc vgnd
+Backannotation: u1:in2 in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in1 in out vcc vgnd
+Backannotation: u2:in2 in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u3:in1 in out vcc vgnd
+Backannotation: u3:in2 in out vcc vgnd
+Backannotation: u3:out in out vcc vgnd
+Backannotation: u4:in in out vcc vgnd
+Backannotation: u4:out in out vcc vgnd
+Backannotation: u5:in1 in out vcc vgnd
+Backannotation: u5:in2 in out vcc vgnd
+Backannotation: u5:out in out vcc vgnd
+Backannotation: u6:in in out vcc vgnd
+Backannotation: u6:out in out vcc vgnd
+Backannotation: u7:in1 in out vcc vgnd
+Backannotation: u7:in2 in out vcc vgnd
+Backannotation: u7:in3 in out vcc vgnd
+Backannotation: u7:out in out vcc vgnd
+Backannotation: u8:in1 in out vcc vgnd
+Backannotation: u8:in2 in out vcc vgnd
+Backannotation: u8:in3 in out vcc vgnd
+Backannotation: u8:out in out vcc vgnd
+Backannotation: u10:in1 in out vcc vgnd
+Backannotation: u10:in2 in out vcc vgnd
+Backannotation: u10:out in out vcc vgnd
+Backannotation: u11:in in out vcc vgnd
+Backannotation: u11:out in out vcc vgnd
+Backannotation: u13:in1 in out vcc vgnd
+Backannotation: u13:in2 in out vcc vgnd
+Backannotation: u13:out in out vcc vgnd
+Backannotation: u14:in1 in out vcc vgnd
+Backannotation: u14:in2 in out vcc vgnd
+Backannotation: u14:out in out vcc vgnd
+Backannotation: u15:in1 in out vcc vgnd
+Backannotation: u15:in2 in out vcc vgnd
+Backannotation: u15:out in out vcc vgnd
+Backannotation: u17:in1 in out vcc vgnd
+Backannotation: u17:in2 in out vcc vgnd
+Backannotation: u17:out in out vcc vgnd
+Backannotation: u18:in in out vcc vgnd
+Backannotation: u18:out in out vcc vgnd
+Backannotation: u20:in1 in out vcc vgnd
+Backannotation: u20:in2 in out vcc vgnd
+Backannotation: u20:out in out vcc vgnd
+Backannotation: u21:in1 in out vcc vgnd
+Backannotation: u21:in2 in out vcc vgnd
+Backannotation: u21:out in out vcc vgnd
+Backannotation: u22:in1 in out vcc vgnd
+Backannotation: u22:in2 in out vcc vgnd
+Backannotation: u22:out in out vcc vgnd
+Backannotation: u24:in1 in out vcc vgnd
+Backannotation: u24:in2 in out vcc vgnd
+Backannotation: u24:out in out vcc vgnd
+Backannotation: u25:in in out vcc vgnd
+Backannotation: u25:out in out vcc vgnd
+Backannotation: u27:in1 in out vcc vgnd
+Backannotation: u27:in2 in out vcc vgnd
+Backannotation: u27:out in out vcc vgnd
+Backannotation: u28:in1 in out vcc vgnd
+Backannotation: u28:in2 in out vcc vgnd
+Backannotation: u28:out in out vcc vgnd
+Backannotation: u29:in1 in out vcc vgnd
+Backannotation: u29:in2 in out vcc vgnd
+Backannotation: u29:out in out vcc vgnd
+Backannotation: u31:in1 in out vcc vgnd
+Backannotation: u31:in2 in out vcc vgnd
+Backannotation: u31:out in out vcc vgnd
+Backannotation: u32:in in out vcc vgnd
+Backannotation: u32:out in out vcc vgnd
+Backannotation: u34:in1 in out vcc vgnd
+Backannotation: u34:in2 in out vcc vgnd
+Backannotation: u34:out in out vcc vgnd
+Backannotation: u35:in1 in out vcc vgnd
+Backannotation: u35:in2 in out vcc vgnd
+Backannotation: u35:out in out vcc vgnd
+Backannotation: u36:in1 in out vcc vgnd
+Backannotation: u36:in2 in out vcc vgnd
+Backannotation: u36:out in out vcc vgnd
+Backannotation: u1 a y vcc vgnd
+Backannotation: u2 a y vcc vgnd
+Backannotation: u3 a y vcc vgnd
+Backannotation: u4 a y vcc vgnd
+Backannotation: u1:in in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u3:in in out vcc vgnd
+Backannotation: u3:out in out vcc vgnd
+Backannotation: u4:in in out vcc vgnd
+Backannotation: u4:out in out vcc vgnd
+Backannotation: u1 a b y vcc vgnd
+Backannotation: u2 a b y vcc vgnd
+Backannotation: u3 a b y vcc vgnd
+Backannotation: u5 a b y vcc vgnd
+Backannotation: u1:in1 in out vcc vgnd
+Backannotation: u1:in2 in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in1 in out vcc vgnd
+Backannotation: u2:in2 in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u3:in1 in out vcc vgnd
+Backannotation: u3:in2 in out vcc vgnd
+Backannotation: u3:out in out vcc vgnd
+Backannotation: u5:in1 in out vcc vgnd
+Backannotation: u5:in2 in out vcc vgnd
+Backannotation: u5:out in out vcc vgnd
+Backannotation: u1 a b y vcc vgnd
+Backannotation: u2 a b y vcc vgnd
+Backannotation: u3 a b y vcc vgnd
+Backannotation: u4 a b y vcc vgnd
+Backannotation: u1:in1 in out vcc vgnd
+Backannotation: u1:in2 in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in1 in out vcc vgnd
+Backannotation: u2:in2 in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u3:in1 in out vcc vgnd
+Backannotation: u3:in2 in out vcc vgnd
+Backannotation: u3:out in out vcc vgnd
+Backannotation: u4:in1 in out vcc vgnd
+Backannotation: u4:in2 in out vcc vgnd
+Backannotation: u4:out in out vcc vgnd
+Backannotation: u1 a b y vcc vgnd
+Backannotation: u2 a b y vcc vgnd
+Backannotation: u3 a b y vcc vgnd
+Backannotation: u4 a b y vcc vgnd
+Backannotation: u1:in1 in out vcc vgnd
+Backannotation: u1:in2 in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in1 in out vcc vgnd
+Backannotation: u2:in2 in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u3:in1 in out vcc vgnd
+Backannotation: u3:in2 in out vcc vgnd
+Backannotation: u3:out in out vcc vgnd
+Backannotation: u4:in1 in out vcc vgnd
+Backannotation: u4:in2 in out vcc vgnd
+Backannotation: u4:out in out vcc vgnd
+Backannotation: u1 a b y vcc vgnd
+Backannotation: u2 a b y vcc vgnd
+Backannotation: u3 a b y vcc vgnd
+Backannotation: u4 a b y vcc vgnd
+Backannotation: u5 a b y vcc vgnd
+Backannotation: u6 a b y vcc vgnd
+Backannotation: u7 a b y vcc vgnd
+Backannotation: u8 a b y vcc vgnd
+Backannotation: u1:in1 in out vcc vgnd
+Backannotation: u1:in2 in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in1 in out vcc vgnd
+Backannotation: u2:in2 in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u3:in1 in out vcc vgnd
+Backannotation: u3:in2 in out vcc vgnd
+Backannotation: u3:out in out vcc vgnd
+Backannotation: u4:in1 in out vcc vgnd
+Backannotation: u4:in2 in out vcc vgnd
+Backannotation: u4:out in out vcc vgnd
+Backannotation: u5:in1 in out vcc vgnd
+Backannotation: u5:in2 in out vcc vgnd
+Backannotation: u5:out in out vcc vgnd
+Backannotation: u6:in1 in out vcc vgnd
+Backannotation: u6:in2 in out vcc vgnd
+Backannotation: u6:out in out vcc vgnd
+Backannotation: u7:in1 in out vcc vgnd
+Backannotation: u7:in2 in out vcc vgnd
+Backannotation: u7:out in out vcc vgnd
+Backannotation: u8:in1 in out vcc vgnd
+Backannotation: u8:in2 in out vcc vgnd
+Backannotation: u8:out in out vcc vgnd
+Backannotation: u1 a y vcc vgnd
+Backannotation: u2 a y vcc vgnd
+Backannotation: u3 a y vcc vgnd
+Backannotation: u4 a y vcc vgnd
+Backannotation: u5 a b c d y vcc vgnd
+Backannotation: u6 a b c d y vcc vgnd
+Backannotation: u7 a b c d y vcc vgnd
+Backannotation: u8 a b c d y vcc vgnd
+Backannotation: u9 a b c d y vcc vgnd
+Backannotation: u10 a b c d y vcc vgnd
+Backannotation: u11 a b c d y vcc vgnd
+Backannotation: u12 a b c d y vcc vgnd
+Backannotation: u13 a b c d y vcc vgnd
+Backannotation: u14 a b c d y vcc vgnd
+Backannotation: u15 a b c d y vcc vgnd
+Backannotation: u16 a b c d y vcc vgnd
+Backannotation: u17 a b c d y vcc vgnd
+Backannotation: u18 a b c d y vcc vgnd
+Backannotation: u19 a b y vcc vgnd
+Backannotation: u20 a b y vcc vgnd
+Backannotation: u21 a b y vcc vgnd
+Backannotation: u1:in in out vcc vgnd
+Backannotation: u1:out in out vcc vgnd
+Backannotation: u2:in in out vcc vgnd
+Backannotation: u2:out in out vcc vgnd
+Backannotation: u3:in in out vcc vgnd
+Backannotation: u3:out in out vcc vgnd
+Backannotation: u4:in in out vcc vgnd
+Backannotation: u4:out in out vcc vgnd
+Backannotation: u5:in1 in out vcc vgnd
+Backannotation: u5:in2 in out vcc vgnd
+Backannotation: u5:in3 in out vcc vgnd
+Backannotation: u5:in4 in out vcc vgnd
+Backannotation: u5:out in out vcc vgnd
+Backannotation: u6:in1 in out vcc vgnd
+Backannotation: u6:in2 in out vcc vgnd
+Backannotation: u6:in3 in out vcc vgnd
+Backannotation: u6:in4 in out vcc vgnd
+Backannotation: u6:out in out vcc vgnd
+Backannotation: u7:in1 in out vcc vgnd
+Backannotation: u7:in2 in out vcc vgnd
+Backannotation: u7:in3 in out vcc vgnd
+Backannotation: u7:in4 in out vcc vgnd
+Backannotation: u7:out in out vcc vgnd
+Backannotation: u8:in1 in out vcc vgnd
+Backannotation: u8:in2 in out vcc vgnd
+Backannotation: u8:in3 in out vcc vgnd
+Backannotation: u8:in4 in out vcc vgnd
+Backannotation: u8:out in out vcc vgnd
+Backannotation: u9:in1 in out vcc vgnd
+Backannotation: u9:in2 in out vcc vgnd
+Backannotation: u9:in3 in out vcc vgnd
+Backannotation: u9:in4 in out vcc vgnd
+Backannotation: u9:out in out vcc vgnd
+Backannotation: u10:in1 in out vcc vgnd
+Backannotation: u10:in2 in out vcc vgnd
+Backannotation: u10:in3 in out vcc vgnd
+Backannotation: u10:in4 in out vcc vgnd
+Backannotation: u10:out in out vcc vgnd
+Backannotation: u11:in1 in out vcc vgnd
+Backannotation: u11:in2 in out vcc vgnd
+Backannotation: u11:in3 in out vcc vgnd
+Backannotation: u11:in4 in out vcc vgnd
+Backannotation: u11:out in out vcc vgnd
+Backannotation: u12:in1 in out vcc vgnd
+Backannotation: u12:in2 in out vcc vgnd
+Backannotation: u12:in3 in out vcc vgnd
+Backannotation: u12:in4 in out vcc vgnd
+Backannotation: u12:out in out vcc vgnd
+Backannotation: u13:in1 in out vcc vgnd
+Backannotation: u13:in2 in out vcc vgnd
+Backannotation: u13:in3 in out vcc vgnd
+Backannotation: u13:in4 in out vcc vgnd
+Backannotation: u13:out in out vcc vgnd
+Backannotation: u14:in1 in out vcc vgnd
+Backannotation: u14:in2 in out vcc vgnd
+Backannotation: u14:in3 in out vcc vgnd
+Backannotation: u14:in4 in out vcc vgnd
+Backannotation: u14:out in out vcc vgnd
+Backannotation: u15:in1 in out vcc vgnd
+Backannotation: u15:in2 in out vcc vgnd
+Backannotation: u15:in3 in out vcc vgnd
+Backannotation: u15:in4 in out vcc vgnd
+Backannotation: u15:out in out vcc vgnd
+Backannotation: u16:in1 in out vcc vgnd
+Backannotation: u16:in2 in out vcc vgnd
+Backannotation: u16:in3 in out vcc vgnd
+Backannotation: u16:in4 in out vcc vgnd
+Backannotation: u16:out in out vcc vgnd
+Backannotation: u17:in1 in out vcc vgnd
+Backannotation: u17:in2 in out vcc vgnd
+Backannotation: u17:in3 in out vcc vgnd
+Backannotation: u17:in4 in out vcc vgnd
+Backannotation: u17:out in out vcc vgnd
+Backannotation: u18:in1 in out vcc vgnd
+Backannotation: u18:in2 in out vcc vgnd
+Backannotation: u18:in3 in out vcc vgnd
+Backannotation: u18:in4 in out vcc vgnd
+Backannotation: u18:out in out vcc vgnd
+Backannotation: u19:in1 in out vcc vgnd
+Backannotation: u19:in2 in out vcc vgnd
+Backannotation: u19:out in out vcc vgnd
+Backannotation: u20:in1 in out vcc vgnd
+Backannotation: u20:in2 in out vcc vgnd
+Backannotation: u20:out in out vcc vgnd
+Backannotation: u21:in1 in out vcc vgnd
+Backannotation: u21:in2 in out vcc vgnd
+Backannotation: u21:out in out vcc vgnd
+Backannotation: x1 sc0 sc1 sc2 sc3 x0 x1 x2 x3 y0 y1 y2 y3 deslocamento_overlfow deslocamento_s0 deslocamento_s1 deslocamento_s2 deslocamento_s3 logic_s0 logic_s1 logic_s2 logic_s3 overflow s0 s1 s2 s3 s4 s5 s6 x_igual_y x_maior_y x_menor_y
+Backannotation: x1:x1 control x0 x1 x2 x3 y0 y1 y2 y3 sx0 sx1 sx2 sx3 sy0 sy1 sy2 sy3
+Backannotation: x1:x2 x0 x1 x2 x3 y0 y1 y2 y3 s0 s1 s2 s3
+Backannotation: x1:x3 control x0 x1 x2 x3 y0 y1 y2 y3 sx0 sx1 sx2 sx3 sy0 sy1 sy2 sy3
+Backannotation: x1:x4 x0 x1 x2 x3 y0 y1 y2 y3 s0 s1 s2 s3
+Backannotation: x1:x5 control x0 x1 x2 x3 y0 y1 y2 y3 sx0 sx1 sx2 sx3 sy0 sy1 sy2 sy3
+Backannotation: x1:x6 x0 x1 x2 x3 y0 y1 y2 y3 s0 s1 s2 s3
+Backannotation: x1:x7 control x0 x1 x2 x3 y0 y1 y2 y3 sx0 sx1 sx2 sx3 sy0 sy1 sy2 sy3
+Backannotation: x1:x8 x0 x1 x2 x3 y0 y1 y2 y3
+Backannotation: x1:x9 logic_s0_and logic_s0_not logic_s0_or logic_s0_x-or logic_s1_and logic_s1_not logic_s1_or logic_s1_x-or logic_s2_and logic_s2_not logic_s2_or logic_s2_x-or logic_s3_and logic_s3_not logic_s3_or logic_s3_x-or sc0 sc1 sc2 sc3 logic_s0 logic_s1 logic_s2 logic_s3
+Backannotation: x1:x10 control x0 x1 x2 x3 y0 y1 y2 y3 sx0 sx1 sx2 sx3 sy0 sy1 sy2 sy3
+Backannotation: x1:x11 x0 x1 x2 x3 overflow s0 s1 s2 s3
+Backannotation: x1:x12 control x0 x1 x2 x3 y0 y1 y2 y3 sx0 sx1 sx2 sx3 sy0 sy1 sy2 sy3
+Backannotation: x1:x13 x1 x2 x3 s0 s1 s2 s3
+Backannotation: x1:x14 control x0 x1 x2 x3 y0 y1 y2 y3 sx0 sx1 sx2 sx3 sy0 sy1 sy2 sy3
+Backannotation: x1:x15 x0 x1 x2 x3 s0 s1 s2 s3
+Backannotation: x1:x16 control x0 x1 x2 x3 y0 y1 y2 y3 sx0 sx1 sx2 sx3 sy0 sy1 sy2 sy3
+Backannotation: x1:x17 x0 x1 x2 x3 s0 s1 s2 s3
+Backannotation: x1:x18 overflow s0_0 s0_1 s0_2 s0_3 s1_0 s1_1 s1_2 s1_3 s2_0 s2_1 s2_2 s2_3 s3_0 s3_1 s3_2 s3_3 deslocamento_overflow deslocamento_s0 deslocamento_s1 deslocamento_s2 deslocamento_s3
+Backannotation: x1:x19 control x0 x1 x2 x3 y0 y1 y2 y3 sx0 sx1 sx2 sx3 sy0 sy1 sy2 sy3
+Backannotation: x1:x20 x0 x1 x2 x3 y0 y1 y2 y3 overflow s0 s1 s2 s3
+Backannotation: x1:x21 control x0 x1 x2 x3 y0 y1 y2 y3 sx0 sx1 sx2 sx3 sy0 sy1 sy2 sy3
+Backannotation: x1:x22 x0 x1 x2 x3 y0 y1 y2 y3 overflow s0 s1 s2 s3
+Backannotation: x1:x23 control x0 x1 x2 x3 y0 y1 y2 y3 sx0 sx1 sx2 sx3 sy0 sy1 sy2 sy3
+Backannotation: x1:x24 x0 x1 x2 x3 y0 y1 y2 y3 overflow s0 s1 s2 s3 s4 s5 s6
+Backannotation: x1:x25 overflow_mult overflow_soma s0_mult s0_soma s0_sub s1_mult s1_soma s1_sub s2_mult s2_soma s2_sub s3_mult s3_soma s3_sub oveflow s0 s1 s2 s3
+Backannotation: x1:x29 x0 x1 x2 x3 y0 y1 y2 y3 x<y
+Backannotation: x1:x30 x0 x1 x2 x3 y0 y1 y2 y3 x>y
+Backannotation: x1:x31 x0 x1 x2 x3 y0 y1 y2 y3 s
+Backannotation: x1:x20:x1 x y overflow s
+Backannotation: x1:x20:x2 vm x y overflow s
+Backannotation: x1:x20:x3 vm x y overflow s
+Backannotation: x1:x20:x4 vm x y overflow s
+Backannotation: x1:x22:x1 x0 x1 x2 x3 y0 y1 y2 y3
+Backannotation: x1:x22:x2 x0 x1 x2 x3 y0 y1 y2 y3 overflow s0 s1 s2 s3
+Backannotation: x1:x22:x3 x0 x1 x2 x3 y0 y1 y2 y3 overflow s0 s1 s2 s3
+Backannotation: x1:x24:u1 a b y vcc vgnd
+Backannotation: x1:x24:u2 a b y vcc vgnd
+Backannotation: x1:x24:u3 a b y vcc vgnd
+Backannotation: x1:x24:u4 a b y vcc vgnd
+Backannotation: x1:x24:u5 a b y vcc vgnd
+Backannotation: x1:x24:u6 a b y vcc vgnd
+Backannotation: x1:x24:u7 a b y vcc vgnd
+Backannotation: x1:x24:u8 a b y vcc vgnd
+Backannotation: x1:x24:u9 a b y vcc vgnd
+Backannotation: x1:x24:u10 a b y vcc vgnd
+Backannotation: x1:x24:u11 a b y vcc vgnd
+Backannotation: x1:x24:u12 a b y vcc vgnd
+Backannotation: x1:x24:u13 a b y vcc vgnd
+Backannotation: x1:x24:u14 a b y vcc vgnd
+Backannotation: x1:x24:u15 a b y vcc vgnd
+Backannotation: x1:x24:u16 a b y vcc vgnd
+Backannotation: x1:x24:x1 x y overflow s
+Backannotation: x1:x24:x2 vm x y overflow s
+Backannotation: x1:x24:x3 x y overflow s
+Backannotation: x1:x24:x4 vm x y overflow s
+Backannotation: x1:x24:x5 vm x y overflow s
+Backannotation: x1:x24:x6 x y overflow s
+Backannotation: x1:x24:x7 vm x y overflow s
+Backannotation: x1:x24:x8 vm x y overflow s
+Backannotation: x1:x24:x9 x y overflow s
+Backannotation: x1:x24:x10 vm x y overflow s
+Backannotation: x1:x24:x11 vm x y overflow s
+Backannotation: x1:x24:x12 vm x y overflow s
+Backannotation: x1:x25:u2 a b y vcc vgnd
+Backannotation: x1:x25:u3 a b y vcc vgnd
+Backannotation: x1:x25:u4 a b y vcc vgnd
+Backannotation: x1:x25:u5 a b y vcc vgnd
+Backannotation: x1:x25:u6 a b y vcc vgnd
+Backannotation: x1:x25:u7 a b y vcc vgnd
+Backannotation: x1:x25:u8 a b y vcc vgnd
+Backannotation: x1:x25:u9 a b y vcc vgnd
+Backannotation: x1:x25:u10 a b y vcc vgnd
+Backannotation: x1:x29:x1 x0 x1 x2 x3 y0 y1 y2 y3 overflow s0 s1 s2 s3
+Backannotation: x1:x29:u1 a y vcc vgnd
+Backannotation: x1:x30:x1 x0 x1 x2 x3 y0 y1 y2 y3 overflow s0 s1 s2 s3
+Backannotation: x1:x30:x2 x0 x1 x2 x3 y0 y1 y2 y3 s
+Backannotation: x1:x31:x1 x0 x1 x2 x3 y0 y1 y2 y3 s0 s1 s2 s3
+Backannotation: x1:x31:x2 x0 x1 x2 x3 y0 y1 y2 y3
+Backannotation: x1:x22:x2:x1 x y overflow s
+Backannotation: x1:x22:x2:x2 vm x y overflow s
+Backannotation: x1:x22:x2:x3 vm x y overflow s
+Backannotation: x1:x22:x2:x4 vm x y overflow s
+Backannotation: x1:x22:x3:x1 x y overflow s
+Backannotation: x1:x22:x3:x2 vm x y overflow s
+Backannotation: x1:x22:x3:x3 vm x y overflow s
+Backannotation: x1:x22:x3:x4 vm x y overflow s
+Backannotation: x1:x24:u1:in1 in out vcc vgnd
+Backannotation: x1:x24:u1:in2 in out vcc vgnd
+Backannotation: x1:x24:u1:out in out vcc vgnd
+Backannotation: x1:x24:u2:in1 in out vcc vgnd
+Backannotation: x1:x24:u2:in2 in out vcc vgnd
+Backannotation: x1:x24:u2:out in out vcc vgnd
+Backannotation: x1:x24:u3:in1 in out vcc vgnd
+Backannotation: x1:x24:u3:in2 in out vcc vgnd
+Backannotation: x1:x24:u3:out in out vcc vgnd
+Backannotation: x1:x24:u4:in1 in out vcc vgnd
+Backannotation: x1:x24:u4:in2 in out vcc vgnd
+Backannotation: x1:x24:u4:out in out vcc vgnd
+Backannotation: x1:x24:u5:in1 in out vcc vgnd
+Backannotation: x1:x24:u5:in2 in out vcc vgnd
+Backannotation: x1:x24:u5:out in out vcc vgnd
+Backannotation: x1:x24:u6:in1 in out vcc vgnd
+Backannotation: x1:x24:u6:in2 in out vcc vgnd
+Backannotation: x1:x24:u6:out in out vcc vgnd
+Backannotation: x1:x24:u7:in1 in out vcc vgnd
+Backannotation: x1:x24:u7:in2 in out vcc vgnd
+Backannotation: x1:x24:u7:out in out vcc vgnd
+Backannotation: x1:x24:u8:in1 in out vcc vgnd
+Backannotation: x1:x24:u8:in2 in out vcc vgnd
+Backannotation: x1:x24:u8:out in out vcc vgnd
+Backannotation: x1:x24:u9:in1 in out vcc vgnd
+Backannotation: x1:x24:u9:in2 in out vcc vgnd
+Backannotation: x1:x24:u9:out in out vcc vgnd
+Backannotation: x1:x24:u10:in1 in out vcc vgnd
+Backannotation: x1:x24:u10:in2 in out vcc vgnd
+Backannotation: x1:x24:u10:out in out vcc vgnd
+Backannotation: x1:x24:u11:in1 in out vcc vgnd
+Backannotation: x1:x24:u11:in2 in out vcc vgnd
+Backannotation: x1:x24:u11:out in out vcc vgnd
+Backannotation: x1:x24:u12:in1 in out vcc vgnd
+Backannotation: x1:x24:u12:in2 in out vcc vgnd
+Backannotation: x1:x24:u12:out in out vcc vgnd
+Backannotation: x1:x24:u13:in1 in out vcc vgnd
+Backannotation: x1:x24:u13:in2 in out vcc vgnd
+Backannotation: x1:x24:u13:out in out vcc vgnd
+Backannotation: x1:x24:u14:in1 in out vcc vgnd
+Backannotation: x1:x24:u14:in2 in out vcc vgnd
+Backannotation: x1:x24:u14:out in out vcc vgnd
+Backannotation: x1:x24:u15:in1 in out vcc vgnd
+Backannotation: x1:x24:u15:in2 in out vcc vgnd
+Backannotation: x1:x24:u15:out in out vcc vgnd
+Backannotation: x1:x24:u16:in1 in out vcc vgnd
+Backannotation: x1:x24:u16:in2 in out vcc vgnd
+Backannotation: x1:x24:u16:out in out vcc vgnd
+Backannotation: x1:x25:u2:in1 in out vcc vgnd
+Backannotation: x1:x25:u2:in2 in out vcc vgnd
+Backannotation: x1:x25:u2:out in out vcc vgnd
+Backannotation: x1:x25:u3:in1 in out vcc vgnd
+Backannotation: x1:x25:u3:in2 in out vcc vgnd
+Backannotation: x1:x25:u3:out in out vcc vgnd
+Backannotation: x1:x25:u4:in1 in out vcc vgnd
+Backannotation: x1:x25:u4:in2 in out vcc vgnd
+Backannotation: x1:x25:u4:out in out vcc vgnd
+Backannotation: x1:x25:u5:in1 in out vcc vgnd
+Backannotation: x1:x25:u5:in2 in out vcc vgnd
+Backannotation: x1:x25:u5:out in out vcc vgnd
+Backannotation: x1:x25:u6:in1 in out vcc vgnd
+Backannotation: x1:x25:u6:in2 in out vcc vgnd
+Backannotation: x1:x25:u6:out in out vcc vgnd
+Backannotation: x1:x25:u7:in1 in out vcc vgnd
+Backannotation: x1:x25:u7:in2 in out vcc vgnd
+Backannotation: x1:x25:u7:out in out vcc vgnd
+Backannotation: x1:x25:u8:in1 in out vcc vgnd
+Backannotation: x1:x25:u8:in2 in out vcc vgnd
+Backannotation: x1:x25:u8:out in out vcc vgnd
+Backannotation: x1:x25:u9:in1 in out vcc vgnd
+Backannotation: x1:x25:u9:in2 in out vcc vgnd
+Backannotation: x1:x25:u9:out in out vcc vgnd
+Backannotation: x1:x25:u10:in1 in out vcc vgnd
+Backannotation: x1:x25:u10:in2 in out vcc vgnd
+Backannotation: x1:x25:u10:out in out vcc vgnd
+Backannotation: x1:x29:x1:x1 x0 x1 x2 x3 y0 y1 y2 y3
+Backannotation: x1:x29:x1:x2 x0 x1 x2 x3 y0 y1 y2 y3 overflow s0 s1 s2 s3
+Backannotation: x1:x29:x1:x3 x0 x1 x2 x3 y0 y1 y2 y3 overflow s0 s1 s2 s3
+Backannotation: x1:x29:u1:in in out vcc vgnd
+Backannotation: x1:x29:u1:out in out vcc vgnd
+Backannotation: x1:x30:x1:x1 x0 x1 x2 x3 y0 y1 y2 y3
+Backannotation: x1:x30:x1:x2 x0 x1 x2 x3 y0 y1 y2 y3 overflow s0 s1 s2 s3
+Backannotation: x1:x30:x1:x3 x0 x1 x2 x3 y0 y1 y2 y3 overflow s0 s1 s2 s3
+Backannotation: x1:x30:x2:x1 x0 x1 x2 x3 y0 y1 y2 y3 s0 s1 s2 s3
+Backannotation: x1:x30:x2:x2 x0 x1 x2 x3 y0 y1 y2 y3
+Backannotation: x1:x29:x1:x2:x1 x y overflow s
+Backannotation: x1:x29:x1:x2:x2 vm x y overflow s
+Backannotation: x1:x29:x1:x2:x3 vm x y overflow s
+Backannotation: x1:x29:x1:x2:x4 vm x y overflow s
+Backannotation: x1:x29:x1:x3:x1 x y overflow s
+Backannotation: x1:x29:x1:x3:x2 vm x y overflow s
+Backannotation: x1:x29:x1:x3:x3 vm x y overflow s
+Backannotation: x1:x29:x1:x3:x4 vm x y overflow s
+Backannotation: x1:x30:x1:x2:x1 x y overflow s
+Backannotation: x1:x30:x1:x2:x2 vm x y overflow s
+Backannotation: x1:x30:x1:x2:x3 vm x y overflow s
+Backannotation: x1:x30:x1:x2:x4 vm x y overflow s
+Backannotation: x1:x30:x1:x3:x1 x y overflow s
+Backannotation: x1:x30:x1:x3:x2 vm x y overflow s
+Backannotation: x1:x30:x1:x3:x3 vm x y overflow s
+Backannotation: x1:x30:x1:x3:x4 vm x y overflow s
+Variables:
+	0	time	time
+	1	V(n004)	voltage
+	2	V(n001)	voltage
+	3	V(n002)	voltage
+	4	V(n003)	voltage
+	5	V(x0)	voltage
+	6	V(x1)	voltage
+	7	V(x2)	voltage
+	8	V(x3)	voltage
+	9	V(y0)	voltage
+	10	V(y1)	voltage
+	11	V(y2)	voltage
+	12	V(y3)	voltage
+	13	V(logic_s0)	voltage
+	14	V(logic_s1)	voltage
+	15	V(logic_s2)	voltage
+	16	V(logic_s3)	voltage
+	17	V(desloc_s3)	voltage
+	18	V(overfow_desloc)	voltage
+	19	V(desloc_s2)	voltage
+	20	V(desloc_s1)	voltage
+	21	V(desloc_s0)	voltage
+	22	V(s4)	voltage
+	23	V(s5)	voltage
+	24	V(s6)	voltage
+	25	V(overflow_ari)	voltage
+	26	V(s0)	voltage
+	27	V(s1)	voltage
+	28	V(s2)	voltage
+	29	V(s3)	voltage
+	30	V(x_menor_y)	voltage
+	31	V(x_maior_y)	voltage
+	32	V(x_igual_y)	voltage
+	33	I(V12)	device_current
+	34	I(V11)	device_current
+	35	I(V10)	device_current
+	36	I(V9)	device_current
+	37	I(V8)	device_current
+	38	I(V7)	device_current
+	39	I(V6)	device_current
+	40	I(V5)	device_current
+	41	I(V4)	device_current
+	42	I(V3)	device_current
+	43	I(V2)	device_current
+	44	I(V1)	device_current
+	45	Ix(x1:OVERFLOW)	subckt_current
+	46	Ix(x1:S0)	subckt_current
+	47	Ix(x1:S1)	subckt_current
+	48	Ix(x1:S2)	subckt_current
+	49	Ix(x1:S3)	subckt_current
+Binary:
+          †@  †@  †@  †@          †@  †@      †@      †@                                                                                    úSIµ    úSIµ        é+dµé+dµïø÷¥ïø÷¥∂£µ∂£µ                    µzFX?  †@  †@  †@  †@          †@  †@      †@      †@                                                                                    úSIµ    úSIµ        é+dµé+dµïø÷¥ïø÷¥∂£µ∂£µ                    ≤á«ür?  †@  †@  †@  †@          †@  †@      †@      †@                                                                                    úSIµ    úSIµ        é+dµé+dµïø÷¥ïø÷¥∂£µ∂£µ                    já«ü~?  †@  †@  †@  †@          †@  †@      †@      †@                                                                                    úSIµ    úSIµ        é+dµé+dµïø÷¥ïø÷¥∂£µ∂£µ                    Åô∫syÑ?  †@  †@  †@  †@          †@  †@      †@      †@                                                                                    úSIµ    úSIµ        é+dµé+dµïø÷¥ïø÷¥∂£µ∂£µ                    {ÆG·zÑ?  †@  †@  †@  †@          †@  †@      †@      †@                                                                                    úSIµ    úSIµ        é+dµé+dµïø÷¥ïø÷¥∂£µ∂£µ                    
